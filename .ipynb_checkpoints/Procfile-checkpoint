@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run 'StatsTool V1_0.py'
+web: sh setup.sh && streamlit run 'StatsTool V1_1.py'
